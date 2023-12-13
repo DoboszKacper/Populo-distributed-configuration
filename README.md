@@ -1,2 +1,2 @@
-# Populo-distributed-configuration-
+# Populo-distributed-configuration
 Distributed configuration sharing mechanism
